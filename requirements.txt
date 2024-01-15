@@ -2,3 +2,4 @@ ultralytics==8.0.196
 roboflow
 chardet
 pillow
+opencv-python
